@@ -1,0 +1,72 @@
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist_the_Game.csprojAssemblyReference.cache
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\MainWindow.g.cs
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\App.g.cs
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.cache
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.lref
+C:\Users\IvanA\source\repos\Alchemist the Game\bin\Debug\Alchemist the Game.exe.config
+C:\Users\IvanA\source\repos\Alchemist the Game\bin\Debug\Alchemist the Game.exe
+C:\Users\IvanA\source\repos\Alchemist the Game\bin\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\MainWindow.baml
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist the Game.g.resources
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist_the_Game.Properties.Resources.resources
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.GenerateResource.cache
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist the Game.exe
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\source\repos\Alchemist the Game\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\source\repos\Alchemist the Game\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\source\repos\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CopyComplete
+C:\Users\IvanA\Desktop\Alchemist the Game\bin\Debug\Alchemist the Game.exe.config
+C:\Users\IvanA\Desktop\Alchemist the Game\bin\Debug\Alchemist the Game.exe
+C:\Users\IvanA\Desktop\Alchemist the Game\bin\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\Desktop\Alchemist the Game\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist the Game\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist_the_Game.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\MainWindow.g.cs
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\App.g.cs
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.cache
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.lref
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\MainWindow.baml
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist the Game.g.resources
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist_the_Game.Properties.Resources.resources
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.GenerateResource.cache
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CopyComplete
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist the Game.exe
+C:\Users\IvanA\Desktop\Alchemist the Game\obj\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.exe.config
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.exe
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\MainWindow.g.cs
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\App.g.cs
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.cache
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.lref
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\MainWindow.baml
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.g.resources
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.Properties.Resources.resources
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.GenerateResource.cache
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CopyComplete
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.exe
+C:\Users\IvanA\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.exe.config
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.exe
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\Alchemist the Game.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\MainWindow.g.cs
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\App.g.cs
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game_MarkupCompile.lref
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\MainWindow.baml
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.g.resources
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.Properties.Resources.resources
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.GenerateResource.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist_the_Game.csproj.CopyComplete
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.exe
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\Alchemist the Game\obj\Debug\Alchemist the Game.pdb

@@ -1,0 +1,18 @@
+C:\Users\IvanA\source\repos\ElementsLibrary\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\source\repos\ElementsLibrary\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\source\repos\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\source\repos\ElementsLibrary\obj\Debug\ElementsLibrary.dll
+C:\Users\IvanA\source\repos\ElementsLibrary\obj\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\source\repos\ElementsLibrary\obj\Debug\ElementsLibrary.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\bin\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.pdb

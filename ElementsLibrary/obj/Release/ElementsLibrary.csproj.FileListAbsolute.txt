@@ -1,0 +1,12 @@
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\bin\Release\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\bin\Release\ElementsLibrary.pdb
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.dll
+C:\Users\IvanA\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\bin\Release\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\bin\Release\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.csprojAssemblyReference.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Release\ElementsLibrary.pdb
