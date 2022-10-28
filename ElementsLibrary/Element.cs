@@ -52,12 +52,19 @@ namespace ElementsLibrary
             return null;
         }
 
-        //Проверяет, открыт ли этот элемент игроком, и если не открыт, записывает дату открытия как текущее время
+        // Если элемент не открыт, записывает дату открытия как текущее время
         // Э Б
         public bool OpenElement ()
         {
-            if (OpenDate.CompareTo(new DateTime(1, 1, 1, 0, 0, 0)) == 0)
+            if (!this.IsOpen())
                 OpenDate = DateTime.Now;
+        }
+
+        //Проверяет, открыт ли этот элемент игроком
+        //Э Б
+        public bool IsOpen()
+        {
+            if (OpenDate.CompareTo(new DateTime(1, 1, 1, 0, 0, 0)) == 0)
                 return false;
             else
                 return true;
