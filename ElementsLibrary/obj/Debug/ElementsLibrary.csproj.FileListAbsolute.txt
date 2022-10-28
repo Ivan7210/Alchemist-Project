@@ -16,3 +16,9 @@ C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\Elem
 C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.CoreCompileInputs.cache
 C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.dll
 C:\Users\IvanA\OneDrive\Desktop\Alchemist Project\ElementsLibrary\obj\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.AssemblyReference.cache
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\obj\Debug\ElementsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\obj\Debug\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\obj\Debug\ElementsLibrary.pdb
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\bin\Debug\ElementsLibrary.dll
+C:\Users\IvanA\OneDrive\Документы\GitHub\Alchemist-Project\ElementsLibrary\bin\Debug\ElementsLibrary.pdb

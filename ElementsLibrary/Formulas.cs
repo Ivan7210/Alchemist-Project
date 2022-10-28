@@ -17,6 +17,7 @@ namespace ElementsLibrary
         }
 
         //Находит формулу по ее названию 
+        //Ф
         public Formula FindFormula(String miscibleToFind)
         {
             foreach (Formula curent in formulasList)
@@ -28,6 +29,7 @@ namespace ElementsLibrary
         }
 
         //Присваивает формуле значение по ее названию 
+        //Ф
         public void SetValue(String miscibleToSet, Formula FormulaToSet)
         {
             Formula curentFormula = this.FindFormula(miscibleToSet);
@@ -53,6 +55,7 @@ namespace ElementsLibrary
         }
 
         //Добавляет формулу в список
+        //Б
         public void Add(Formula formulaToAdd)
         {
             FormulasList.Add(formulaToAdd);

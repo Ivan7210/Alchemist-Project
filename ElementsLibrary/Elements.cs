@@ -18,6 +18,7 @@ namespace ElementsLibrary
         }
 
         //Находит элемент по его названию
+        //Э
         public Element FindElement(String nameToFind)
         {
             foreach (Element curent in elementsList)
@@ -29,6 +30,7 @@ namespace ElementsLibrary
         }
 
         //Присваивает элементу значение по его названию 
+        //Э
         public void SetValue(String name, Element elementToSet)
         {
             Element curentElement = this.FindElement(name);
@@ -55,12 +57,14 @@ namespace ElementsLibrary
         }
 
         //Добавляет элемент в список
+        //Б
         public void Add(Element elementToAdd)
         {
             ElementsList.Add(elementToAdd);
         }
 
         //Сортирует список элементов перед его отображением в DataGrid
+        //Э
         public List<Element> SortToShow()
         {
             List<Element> result = new List<Element>();
@@ -75,18 +79,21 @@ namespace ElementsLibrary
         }
 
         //Сравнивает элементы на основании даты открытия
+        //Э Б
         public static int CompareByDate(Element x, Element y)
         {
             return (x.OpenDate.CompareTo(y.OpenDate));
         }
 
         //Очищает список
+        //
         public void Clear()
         {
             ElementsList.Clear();
         }
 
         //Подсчитывает количество элеметнов в списке
+        //
         public int Count()
         {
             return ElementsList.Count();

@@ -27,11 +27,14 @@ namespace ElementsLibrary
             OpenDate = openDate;
         }
 
-        //Скаладывает два элемента
+        //Скаладывает два элемента 
+        //Э Ф
         public static Element operator + (Element element1, Element element2)
         {
             if ((element1 == null)||(element2 == null))
                 return null;
+
+            //element1.СheckFormulas()
 
             foreach (Formula curentFormula in element1.FormulasWithElement)
             {
@@ -48,7 +51,21 @@ namespace ElementsLibrary
             return null;
         }
 
+        //Э Ф
+        public Element СheckFormulas (Element element)
+        {
+            if (element == null)
+                return null;
+            foreach (Formula curentFormula in this.FormulasWithElement)
+            {
+                if (curentFormula.CompareName(element.Name))
+                    return curentFormula.Result;
+            }
+            return null;
+        }
+
         //Проверяет, открыт ли этот элемент игроком, и если не открыт, записывает дату открытия как текущее время
+        // Э Б
         public void OpenElement ()
         {
             if (OpenDate.CompareTo(new DateTime(1, 1, 1, 0, 0, 0)) == 0)
